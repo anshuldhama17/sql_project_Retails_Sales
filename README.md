@@ -215,6 +215,6 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-- **LinkedIn**: [Connect with me professionally]([https://www.linkedin.com/in/anshul-dhama](https://www.linkedin.com/in/anshul-dhama-0a8585282?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/anshul-dhama-0a8585282?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 Thank you for your support, and I look forward to connecting with you!
